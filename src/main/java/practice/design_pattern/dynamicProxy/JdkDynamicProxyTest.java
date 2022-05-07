@@ -17,6 +17,18 @@ public class JdkDynamicProxyTest {
         //打开保存JDK动态代理生成的类文件
        saveGeneratedJdkProxyFiles();
 
+
+
+
+
+
+
+
+
+
+
+
+
        /**
         * 第一种方法: 通过 Proxy.newProxyInstance 方法 获取代理对象
         */
